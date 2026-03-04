@@ -1,0 +1,784 @@
+{
+  "articles": [
+    {
+      "week": 1,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "AI in Education: 2025 Trends",
+        "description": "Discover how AI is transforming classrooms worldwide with personalized learning and intelligent tutoring systems.",
+        "link": "https://www.edweek.org/technology"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "교육 분야 AI: 2025년 트렌드",
+        "description": "개인화된 학습과 지능형 튜터링 시스템으로 전 세계 교실을 변화시키는 AI를 발견하세요.",
+        "link": "https://www.edweek.org/technology"
+      }
+    },
+    {
+      "week": 2,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "Multimodal AI Models Rise",
+        "description": "GPT-4V, Gemini, and Claude 3 are combining text, images, and audio for breakthrough applications.",
+        "link": "https://openai.com/index/gpt-4v-system-card"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "멀티모달 AI 모델의 부상",
+        "description": "GPT-4V, Gemini, Claude 3가 텍스트, 이미지, 오디오를 결합하여 획기적인 애플리케이션을 만듭니다.",
+        "link": "https://openai.com/index/gpt-4v-system-card"
+      }
+    },
+    {
+      "week": 3,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "AI Code Assistants Evolution",
+        "description": "GitHub Copilot, Cursor, and Claude Code are revolutionizing software development workflows.",
+        "link": "https://github.blog/category/ai-and-ml/"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "AI 코드 어시스턴트의 진화",
+        "description": "GitHub Copilot, Cursor, Claude Code가 소프트웨어 개발 워크플로우를 혁신하고 있습니다.",
+        "link": "https://github.blog/category/ai-and-ml/"
+      }
+    },
+    {
+      "week": 4,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "AI-Generated Video Breakthroughs",
+        "description": "Sora, Runway Gen-3, and Pika 2.0 are creating Hollywood-quality videos from text prompts.",
+        "link": "https://openai.com/index/sora"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "AI 생성 비디오의 돌파구",
+        "description": "Sora, Runway Gen-3, Pika 2.0가 텍스트 프롬프트로 할리우드 수준의 비디오를 만듭니다.",
+        "link": "https://openai.com/index/sora"
+      }
+    },
+    {
+      "week": 5,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "Voice AI & Real-time Translation",
+        "description": "ElevenLabs and Google Translate AI are breaking language barriers in real-time conversations.",
+        "link": "https://elevenlabs.io/blog"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "음성 AI 및 실시간 번역",
+        "description": "ElevenLabs와 Google Translate AI가 실시간 대화에서 언어 장벽을 허물고 있습니다.",
+        "link": "https://elevenlabs.io/blog"
+      }
+    },
+    {
+      "week": 6,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "AI Agents & Automation",
+        "description": "AutoGPT, AgentGPT, and LangChain are enabling AI to complete complex tasks autonomously.",
+        "link": "https://www.langchain.com/blog"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "AI 에이전트 및 자동화",
+        "description": "AutoGPT, AgentGPT, LangChain이 AI가 복잡한 작업을 자율적으로 완료할 수 있게 합니다.",
+        "link": "https://www.langchain.com/blog"
+      }
+    },
+    {
+      "week": 7,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "AI in Healthcare Diagnostics",
+        "description": "Medical AI models are detecting diseases earlier and more accurately than traditional methods.",
+        "link": "https://www.nature.com/subjects/machine-learning"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "의료 진단에서의 AI",
+        "description": "의료 AI 모델이 기존 방법보다 더 빠르고 정확하게 질병을 감지하고 있습니다.",
+        "link": "https://www.nature.com/subjects/machine-learning"
+      }
+    },
+    {
+      "week": 8,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "Open Source AI Models Surge",
+        "description": "LLaMA 3, Mistral, and Falcon are democratizing access to powerful AI technology.",
+        "link": "https://huggingface.co/blog"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "오픈 소스 AI 모델의 급증",
+        "description": "LLaMA 3, Mistral, Falcon이 강력한 AI 기술에 대한 접근을 민주화하고 있습니다.",
+        "link": "https://huggingface.co/blog"
+      }
+    },
+    {
+      "week": 9,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "AI Ethics & Regulation",
+        "description": "New AI governance frameworks are shaping responsible development and deployment globally.",
+        "link": "https://www.oecd.org/digital/artificial-intelligence/"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "AI 윤리 및 규제",
+        "description": "새로운 AI 거버넌스 프레임워크가 전 세계적으로 책임 있는 개발과 배포를 형성하고 있습니다.",
+        "link": "https://www.oecd.org/digital/artificial-intelligence/"
+      }
+    },
+    {
+      "week": 10,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "Generative AI for Design",
+        "description": "Midjourney v7, DALL-E 3, and Stable Diffusion are revolutionizing creative workflows.",
+        "link": "https://www.midjourney.com/explore"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "디자인을 위한 생성형 AI",
+        "description": "Midjourney v7, DALL-E 3, Stable Diffusion이 창의적 워크플로우를 혁신하고 있습니다.",
+        "link": "https://www.midjourney.com/explore"
+      }
+    },
+    {
+      "week": 11,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "AI-Powered Cybersecurity",
+        "description": "Machine learning models are detecting and preventing cyber threats in real-time.",
+        "link": "https://www.darkreading.com/artificial-intelligence"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "AI 기반 사이버 보안",
+        "description": "머신 러닝 모델이 실시간으로 사이버 위협을 감지하고 예방하고 있습니다.",
+        "link": "https://www.darkreading.com/artificial-intelligence"
+      }
+    },
+    {
+      "week": 12,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "Retrieval-Augmented Generation",
+        "description": "RAG systems are making AI more accurate by grounding responses in real-time data.",
+        "link": "https://arxiv.org/list/cs.AI/recent"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "검색 증강 생성",
+        "description": "RAG 시스템이 실시간 데이터에 응답을 기반하여 AI를 더 정확하게 만들고 있습니다.",
+        "link": "https://arxiv.org/list/cs.AI/recent"
+      }
+    },
+    {
+      "week": 13,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "AI in Climate Science",
+        "description": "Machine learning is helping predict weather patterns and optimize renewable energy systems.",
+        "link": "https://www.nature.com/nclimate/"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "기후 과학의 AI",
+        "description": "머신 러닝이 날씨 패턴을 예측하고 재생 에너지 시스템을 최적화하는 데 도움을 주고 있습니다.",
+        "link": "https://www.nature.com/nclimate/"
+      }
+    },
+    {
+      "week": 14,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "Prompt Engineering Mastery",
+        "description": "Advanced prompting techniques are unlocking unprecedented AI capabilities.",
+        "link": "https://www.promptingguide.ai/"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "프롬프트 엔지니어링 마스터리",
+        "description": "고급 프롬프팅 기술이 전례 없는 AI 기능을 잠금 해제하고 있습니다.",
+        "link": "https://www.promptingguide.ai/"
+      }
+    },
+    {
+      "week": 15,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "AI Chip Innovation",
+        "description": "NVIDIA H200, Google TPU v5, and custom AI processors are accelerating model training.",
+        "link": "https://blogs.nvidia.com/blog/category/deep-learning/"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "AI 칩 혁신",
+        "description": "NVIDIA H200, Google TPU v5, 맞춤형 AI 프로세서가 모델 학습을 가속화하고 있습니다.",
+        "link": "https://blogs.nvidia.com/blog/category/deep-learning/"
+      }
+    },
+    {
+      "week": 16,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "AI-Generated Music & Art",
+        "description": "Suno, Udio, and MusicGen are creating original compositions from text descriptions.",
+        "link": "https://www.suno.ai/"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "AI 생성 음악 및 예술",
+        "description": "Suno, Udio, MusicGen이 텍스트 설명에서 독창적인 작곡을 만들고 있습니다.",
+        "link": "https://www.suno.ai/"
+      }
+    },
+    {
+      "week": 17,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "Quantum AI Computing",
+        "description": "Quantum-enhanced machine learning algorithms are solving previously impossible problems.",
+        "link": "https://www.ibm.com/quantum"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "양자 AI 컴퓨팅",
+        "description": "양자 강화 머신 러닝 알고리즘이 이전에 불가능했던 문제를 해결하고 있습니다.",
+        "link": "https://www.ibm.com/quantum"
+      }
+    },
+    {
+      "week": 18,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "AI Personalization Revolution",
+        "description": "Adaptive learning systems are customizing education for individual student needs.",
+        "link": "https://www.khanacademy.org/khan-labs"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "AI 개인화 혁명",
+        "description": "적응형 학습 시스템이 개별 학생의 필요에 맞게 교육을 맞춤화하고 있습니다.",
+        "link": "https://www.khanacademy.org/khan-labs"
+      }
+    },
+    {
+      "week": 19,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "Edge AI & IoT Integration",
+        "description": "On-device AI is enabling real-time processing without cloud dependencies.",
+        "link": "https://www.qualcomm.com/news/onq/topics/artificial-intelligence"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "엣지 AI 및 IoT 통합",
+        "description": "온디바이스 AI가 클라우드 의존 없이 실시간 처리를 가능하게 하고 있습니다.",
+        "link": "https://www.qualcomm.com/news/onq/topics/artificial-intelligence"
+      }
+    },
+    {
+      "week": 20,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "AI in Scientific Discovery",
+        "description": "AlphaFold and similar models are accelerating drug discovery and materials science.",
+        "link": "https://www.deepmind.com/research"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "과학 발견의 AI",
+        "description": "AlphaFold와 유사한 모델이 약물 발견과 재료 과학을 가속화하고 있습니다.",
+        "link": "https://www.deepmind.com/research"
+      }
+    },
+    {
+      "week": 21,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "Conversational AI Advances",
+        "description": "Natural language interfaces are making technology more accessible than ever.",
+        "link": "https://www.anthropic.com/news"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "대화형 AI의 발전",
+        "description": "자연어 인터페이스가 기술을 그 어느 때보다 접근 가능하게 만들고 있습니다.",
+        "link": "https://www.anthropic.com/news"
+      }
+    },
+    {
+      "week": 22,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "AI-Assisted Content Moderation",
+        "description": "Machine learning is helping create safer online communities at scale.",
+        "link": "https://transparency.fb.com/features/approach-to-ai/"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "AI 지원 콘텐츠 조정",
+        "description": "머신 러닝이 대규모로 더 안전한 온라인 커뮤니티를 만드는 데 도움을 주고 있습니다.",
+        "link": "https://transparency.fb.com/features/approach-to-ai/"
+      }
+    },
+    {
+      "week": 23,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "Federated Learning & Privacy",
+        "description": "Training AI models without sharing raw data is protecting user privacy.",
+        "link": "https://blog.google/technology/ai/"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "연합 학습 및 개인정보 보호",
+        "description": "원시 데이터를 공유하지 않고 AI 모델을 학습하여 사용자 개인정보를 보호하고 있습니다.",
+        "link": "https://blog.google/technology/ai/"
+      }
+    },
+    {
+      "week": 24,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "AI in Financial Services",
+        "description": "Algorithmic trading and fraud detection are transforming the finance industry.",
+        "link": "https://www.finextra.com/blogposting/category/artificial-intelligence"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "금융 서비스의 AI",
+        "description": "알고리즘 거래와 사기 탐지가 금융 산업을 변화시키고 있습니다.",
+        "link": "https://www.finextra.com/blogposting/category/artificial-intelligence"
+      }
+    },
+    {
+      "week": 25,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "Neural Architecture Search",
+        "description": "AI is now designing better AI models automatically, accelerating innovation.",
+        "link": "https://research.google/research-areas/machine-intelligence/"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "신경망 아키텍처 검색",
+        "description": "AI가 이제 더 나은 AI 모델을 자동으로 설계하여 혁신을 가속화하고 있습니다.",
+        "link": "https://research.google/research-areas/machine-intelligence/"
+      }
+    },
+    {
+      "week": 26,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "AI-Enhanced Accessibility",
+        "description": "Computer vision and speech recognition are empowering people with disabilities.",
+        "link": "https://www.microsoft.com/ai/ai-for-accessibility"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "AI 향상 접근성",
+        "description": "컴퓨터 비전과 음성 인식이 장애인에게 힘을 실어주고 있습니다.",
+        "link": "https://www.microsoft.com/ai/ai-for-accessibility"
+      }
+    },
+    {
+      "week": 27,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "Synthetic Data Generation",
+        "description": "AI-created training data is solving data scarcity and privacy challenges.",
+        "link": "https://research.nvidia.com/"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "합성 데이터 생성",
+        "description": "AI가 생성한 학습 데이터가 데이터 부족과 개인정보 보호 문제를 해결하고 있습니다.",
+        "link": "https://research.nvidia.com/"
+      }
+    },
+    {
+      "week": 28,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "AI in Autonomous Vehicles",
+        "description": "Self-driving technology is advancing with improved perception and decision-making.",
+        "link": "https://www.tesla.com/AI"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "자율 주행 차량의 AI",
+        "description": "자율 주행 기술이 향상된 인식과 의사 결정으로 발전하고 있습니다.",
+        "link": "https://www.tesla.com/AI"
+      }
+    },
+    {
+      "week": 29,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "Transfer Learning Breakthroughs",
+        "description": "Pre-trained models are reducing the time and cost of AI development dramatically.",
+        "link": "https://paperswithcode.com/methods/category/transfer-learning"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "전이 학습의 돌파구",
+        "description": "사전 학습된 모델이 AI 개발 시간과 비용을 극적으로 줄이고 있습니다.",
+        "link": "https://paperswithcode.com/methods/category/transfer-learning"
+      }
+    },
+    {
+      "week": 30,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "AI for Sustainability",
+        "description": "Machine learning is optimizing energy consumption and reducing carbon footprints.",
+        "link": "https://www.climatechange.ai/"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "지속 가능성을 위한 AI",
+        "description": "머신 러닝이 에너지 소비를 최적화하고 탄소 발자국을 줄이고 있습니다.",
+        "link": "https://www.climatechange.ai/"
+      }
+    },
+    {
+      "week": 31,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "Explainable AI Progress",
+        "description": "New techniques are making AI decision-making transparent and trustworthy.",
+        "link": "https://www.darpa.mil/program/explainable-artificial-intelligence"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "설명 가능한 AI 진행",
+        "description": "새로운 기술이 AI 의사 결정을 투명하고 신뢰할 수 있게 만들고 있습니다.",
+        "link": "https://www.darpa.mil/program/explainable-artificial-intelligence"
+      }
+    },
+    {
+      "week": 32,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "AI in Agriculture",
+        "description": "Computer vision and IoT sensors are revolutionizing precision farming techniques.",
+        "link": "https://www.ibm.com/blogs/research/category/ai-research/"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "농업의 AI",
+        "description": "컴퓨터 비전과 IoT 센서가 정밀 농업 기술을 혁신하고 있습니다.",
+        "link": "https://www.ibm.com/blogs/research/category/ai-research/"
+      }
+    },
+    {
+      "week": 33,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "Reinforcement Learning Advances",
+        "description": "AI agents are mastering complex games and real-world decision-making tasks.",
+        "link": "https://www.deepmind.com/blog/categories/reinforcement-learning"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "강화 학습의 발전",
+        "description": "AI 에이전트가 복잡한 게임과 실제 의사 결정 작업을 마스터하고 있습니다.",
+        "link": "https://www.deepmind.com/blog/categories/reinforcement-learning"
+      }
+    },
+    {
+      "week": 34,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "AI-Powered Mental Health",
+        "description": "Chatbots and analysis tools are providing accessible mental health support.",
+        "link": "https://www.who.int/news-room/feature-stories"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "AI 기반 정신 건강",
+        "description": "챗봇과 분석 도구가 접근 가능한 정신 건강 지원을 제공하고 있습니다.",
+        "link": "https://www.who.int/news-room/feature-stories"
+      }
+    },
+    {
+      "week": 35,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "Computer Vision in Retail",
+        "description": "Smart checkout systems and inventory management are transforming shopping experiences.",
+        "link": "https://retail.economictimes.indiatimes.com/tag/artificial+intelligence"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "소매업의 컴퓨터 비전",
+        "description": "스마트 체크아웃 시스템과 재고 관리가 쇼핑 경험을 변화시키고 있습니다.",
+        "link": "https://retail.economictimes.indiatimes.com/tag/artificial+intelligence"
+      }
+    },
+    {
+      "week": 36,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "AI in Legal Tech",
+        "description": "Document analysis and case prediction are modernizing the legal profession.",
+        "link": "https://www.lexisnexis.com/en-us/products/lexis-plus-ai.page"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "법률 기술의 AI",
+        "description": "문서 분석과 사건 예측이 법률 직업을 현대화하고 있습니다.",
+        "link": "https://www.lexisnexis.com/en-us/products/lexis-plus-ai.page"
+      }
+    },
+    {
+      "week": 37,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "Few-Shot Learning",
+        "description": "AI models are learning from minimal examples, reducing training data requirements.",
+        "link": "https://arxiv.org/list/cs.LG/recent"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "소량 학습",
+        "description": "AI 모델이 최소한의 예제에서 학습하여 학습 데이터 요구 사항을 줄이고 있습니다.",
+        "link": "https://arxiv.org/list/cs.LG/recent"
+      }
+    },
+    {
+      "week": 38,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "AI Assistants in Workplace",
+        "description": "Microsoft Copilot and Google Workspace AI are boosting productivity across industries.",
+        "link": "https://www.microsoft.com/en-us/microsoft-365/blog/copilot/"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "직장의 AI 어시스턴트",
+        "description": "Microsoft Copilot과 Google Workspace AI가 산업 전반에 걸쳐 생산성을 향상시키고 있습니다.",
+        "link": "https://www.microsoft.com/en-us/microsoft-365/blog/copilot/"
+      }
+    },
+    {
+      "week": 39,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "Natural Language Processing",
+        "description": "Advanced NLP models are understanding context and nuance better than ever.",
+        "link": "https://blog.research.google/search/label/Natural%20Language%20Processing"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "자연어 처리",
+        "description": "고급 NLP 모델이 그 어느 때보다 맥락과 뉘앙스를 더 잘 이해하고 있습니다.",
+        "link": "https://blog.research.google/search/label/Natural%20Language%20Processing"
+      }
+    },
+    {
+      "week": 40,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "AI Model Compression",
+        "description": "Smaller, faster models are bringing powerful AI to mobile and edge devices.",
+        "link": "https://pytorch.org/blog/"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "AI 모델 압축",
+        "description": "더 작고 빠른 모델이 모바일 및 엣지 장치에 강력한 AI를 제공하고 있습니다.",
+        "link": "https://pytorch.org/blog/"
+      }
+    },
+    {
+      "week": 41,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "AI in Sports Analytics",
+        "description": "Performance tracking and strategy optimization are changing competitive sports.",
+        "link": "https://www.statsperform.com/artificial-intelligence/"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "스포츠 분석의 AI",
+        "description": "성능 추적과 전략 최적화가 경쟁 스포츠를 변화시키고 있습니다.",
+        "link": "https://www.statsperform.com/artificial-intelligence/"
+      }
+    },
+    {
+      "week": 42,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "Adversarial AI & Security",
+        "description": "Understanding and defending against AI-based attacks is becoming critical.",
+        "link": "https://www.csoonline.com/security/"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "적대적 AI 및 보안",
+        "description": "AI 기반 공격을 이해하고 방어하는 것이 중요해지고 있습니다.",
+        "link": "https://www.csoonline.com/security/"
+      }
+    },
+    {
+      "week": 43,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "AI for Drug Discovery",
+        "description": "Computational models are accelerating the development of life-saving medications.",
+        "link": "https://www.nature.com/subjects/drug-discovery"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "약물 발견을 위한 AI",
+        "description": "계산 모델이 생명을 구하는 약물 개발을 가속화하고 있습니다.",
+        "link": "https://www.nature.com/subjects/drug-discovery"
+      }
+    },
+    {
+      "week": 44,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "Context-Aware AI Systems",
+        "description": "Models with extended context windows are understanding complex, lengthy documents.",
+        "link": "https://www.anthropic.com/index/claude-2-1"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "컨텍스트 인식 AI 시스템",
+        "description": "확장된 컨텍스트 창을 가진 모델이 복잡하고 긴 문서를 이해하고 있습니다.",
+        "link": "https://www.anthropic.com/index/claude-2-1"
+      }
+    },
+    {
+      "week": 45,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "AI in Space Exploration",
+        "description": "Machine learning is analyzing cosmic data and planning autonomous space missions.",
+        "link": "https://www.nasa.gov/technology/artificial-intelligence"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "우주 탐사의 AI",
+        "description": "머신 러닝이 우주 데이터를 분석하고 자율 우주 임무를 계획하고 있습니다.",
+        "link": "https://www.nasa.gov/technology/artificial-intelligence"
+      }
+    },
+    {
+      "week": 46,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "Emotion AI & Affective Computing",
+        "description": "AI systems are detecting and responding to human emotions in real-time.",
+        "link": "https://www.media.mit.edu/groups/affective-computing/overview/"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "감정 AI 및 감성 컴퓨팅",
+        "description": "AI 시스템이 실시간으로 인간의 감정을 감지하고 반응하고 있습니다.",
+        "link": "https://www.media.mit.edu/groups/affective-computing/overview/"
+      }
+    },
+    {
+      "week": 47,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "AI-Driven Robotics",
+        "description": "Intelligent robots are performing complex tasks in manufacturing and healthcare.",
+        "link": "https://www.bostondynamics.com/blog"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "AI 주도 로봇 공학",
+        "description": "지능형 로봇이 제조 및 의료 분야에서 복잡한 작업을 수행하고 있습니다.",
+        "link": "https://www.bostondynamics.com/blog"
+      }
+    },
+    {
+      "week": 48,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "Continuous Learning Systems",
+        "description": "AI models that learn from new data without forgetting previous knowledge.",
+        "link": "https://www.continualai.org/"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "지속적 학습 시스템",
+        "description": "이전 지식을 잊지 않고 새로운 데이터에서 학습하는 AI 모델.",
+        "link": "https://www.continualai.org/"
+      }
+    },
+    {
+      "week": 49,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "AI in Smart Cities",
+        "description": "Urban AI systems are optimizing traffic, energy, and public services.",
+        "link": "https://www.smartcitiesdive.com/topic/ai-automation/"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "스마트 시티의 AI",
+        "description": "도시 AI 시스템이 교통, 에너지 및 공공 서비스를 최적화하고 있습니다.",
+        "link": "https://www.smartcitiesdive.com/topic/ai-automation/"
+      }
+    },
+    {
+      "week": 50,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "2025 AI Predictions",
+        "description": "Industry experts forecast major AI breakthroughs and transformations ahead.",
+        "link": "https://www.technologyreview.com/topic/artificial-intelligence/"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "2025년 AI 예측",
+        "description": "업계 전문가들이 앞으로의 주요 AI 돌파구와 변화를 예측합니다.",
+        "link": "https://www.technologyreview.com/topic/artificial-intelligence/"
+      }
+    },
+    {
+      "week": 51,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "Year in Review: AI Milestones",
+        "description": "Celebrating this year's most impactful AI innovations and achievements.",
+        "link": "https://hai.stanford.edu/news"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "올해의 리뷰: AI 이정표",
+        "description": "올해 가장 영향력 있는 AI 혁신과 성과를 축하합니다.",
+        "link": "https://hai.stanford.edu/news"
+      }
+    },
+    {
+      "week": 52,
+      "en": {
+        "title": "This Week's AI Hot Issue",
+        "subtitle": "Looking Ahead: AI in 2026",
+        "description": "Exploring emerging trends and opportunities in artificial intelligence.",
+        "link": "https://www.weforum.org/agenda/artificial-intelligence-and-robotics/"
+      },
+      "ko": {
+        "title": "이번 주 AI 핫 이슈",
+        "subtitle": "앞을 내다보며: 2026년의 AI",
+        "description": "인공 지능의 새로운 트렌드와 기회를 탐색합니다.",
+        "link": "https://www.weforum.org/agenda/artificial-intelligence-and-robotics/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "customTools": [
+    {
+      "name": "ICAN Interview App",
+      "url": "http://192.168.68.106:1120",
+      "category": "Class Management",
+      "iconName": "User"
+    },
+    {
+      "name": "ICAN Reading Level",
+      "url": "http://192.168.68.106:1230/ICAN_Academy_Reading_Assessment_App.html",
+      "category": "Class Management",
+      "iconName": "Lightning"
+    },
+    {
+      "name": "Student Report Viewer",
+      "url": "http://192.168.68.106:1442/",
+      "category": "Class Management",
+      "iconName": "Analytics"
+    },
+    {
+      "name": "Report Card Data Generator",
+      "url": "http://192.168.68.106:1443/",
+      "category": "Class Management",
+      "iconName": "Layers"
+    },
+    {
+      "name": "Teachers Attendance App",
+      "url": "http://192.168.68.106:3001",
+      "category": "Class Management",
+      "iconName": "User"
+    },
+    {
+      "name": "Students Attendance",
+      "url": "http://192.168.68.106:3002",
+      "category": "Class Management",
+      "iconName": "Users"
+    },
+    {
+      "name": "App Marketplace",
+      "url": "http://192.168.68.106:3010",
+      "category": "Class Management",
+      "iconName": "Gift"
+    },
+    {
+      "name": "F2F Scheduler",
+      "url": "http://192.168.68.106:4444",
+      "category": "Class Management",
+      "iconName": "Calendar"
+    },
+    {
+      "name": "Online Scheduler",
+      "url": "http://192.168.68.106:4477",
+      "category": "Class Management",
+      "iconName": "Chip"
+    },
+    {
+      "name": "Face ID Attendance",
+      "url": "http://192.168.68.192:5001/index.html",
+      "category": "Class Management",
+      "iconName": "Robot"
+    },
+    {
+      "name": "Attendance TV Display",
+      "url": "http://192.168.68.106:5556",
+      "category": "Class Management",
+      "iconName": "Dashboard"
+    },
+    {
+      "name": "Where is My Room?",
+      "url": "http://192.168.68.106:5557",
+      "category": "Class Management",
+      "iconName": "Search"
+    },
+    {
+      "name": "Iron Suit Portal (this app)",
+      "url": "http://192.168.68.106:7777",
+      "category": "Class Management",
+      "iconName": "Diamond"
+    },
+    {
+      "name": "Demo Assessment Form",
+      "url": "http://192.168.68.106:3003/",
+      "category": "Class Management",
+      "iconName": "Pencil"
+    },
+    {
+      "name": "ICAN Endorsement File",
+      "url": "https://icanendorse.vercel.app",
+      "category": "Class Management",
+      "iconName": "Heart"
+    },
+    {
+      "name": "ICAN Coaching App",
+      "url": "http://192.168.68.106:2006/",
+      "category": "Class Management",
+      "iconName": "Trending"
+    },
+    {
+      "name": "ICAN IELTS Simul",
+      "url": "http://192.168.68.106:1375/",
+      "category": "Class Management",
+      "iconName": "Pencil"
+    },
+    {
+      "name": "ICAN Data Center",
+      "url": "http://192.168.68.106:8080/",
+      "category": "AI Agent",
+      "iconName": "Server"
+    },
+    {
+      "name": "ICAN NOAH Calamities",
+      "url": "https://icannoah.vercel.app/",
+      "category": "Class Management",
+      "iconName": "Lightning"
+    },
+    {
+      "name": "Learning Habit Monitoring Platform",
+      "url": "http://192.168.68.192:5002",
+      "category": "Class Management",
+      "iconName": "Document"
+    },
+    {
+      "name": "Class Monitoring Analysis Solution Tool",
+      "url": "https://192.168.68.192:3000/",
+      "category": "Class Management",
+      "iconName": "Megaphone"
+    },
+    {
+      "name": "YT Upload Portal",
+      "url": "http://192.168.68.192:5050",
+      "category": "Video",
+      "iconName": "Video"
+    }
+  ],
+  "toolOverrides": [
+    {
+      "originalName": "ICAN Stellar Daily Monitoring Report",
+      "category": "Class Management",
+      "name": "ICAN Stellar Daily Monitoring Report",
+      "url": "http://192.168.68.106:1441",
+      "iconName": "Star"
+    }
+  ],
+  "segments": {
+    "EDUSPACE": [
+      {
+        "id": "1768878265161",
+        "name": "Space Blog",
+        "url": "https://space-blog.my.canva.site/?fbclid=IwY2xjawPbz6tleHRuA2FlbQIxMABicmlkETFZM3lhemV3SzdIYjJJaU1Sc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHrGTbfrX74ms7MkQTr4JR3CktgiuOzpAvd5upKkb3iSnjHk2iH8TnK-RIgts_aem_P4wQlb9FqHUIQ64jXMIb6Q",
+        "iconName": "Code",
+        "description": "Han Dong Yun's Space Blog"
+      },
+      {
+        "id": "1768878369854",
+        "name": "Solar System Blog",
+        "url": "https://exploring-solar-system.my.canva.site/?fbclid=IwY2xjawPb0BpleHRuA2FlbQIxMABicmlkETFZM3lhemV3SzdIYjJJaU1Sc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjHALmhp9AzYcF6oXMs2TPlfJfHG2FS4cdj_O4ZyV6oMj3-IMnNMHrIYubfP_aem_apfG5r63_E54qk_PQZW5gQ",
+        "iconName": "Code",
+        "description": "Han Ju Yi's Solar System Blog"
+      },
+      {
+        "id": "1769157056986",
+        "name": "EduSpace Universe Map",
+        "url": "https://eduspace-m0yf13x6y-icanacademys-projects.vercel.app/",
+        "iconName": "Rocket",
+        "description": ""
+      }
+    ],
+    "RE-EARTH": []
+  }
+}

@@ -42,7 +42,8 @@ export const AI_TOOLS_DATA: Category[] = [
   {
     title: 'ICAN WonderWorks',
     tools: [
-      { name: 'ICAN WonderWorks — 버추얼 오피스', icon: <WonderWorksIcon />, url: 'https://ican-wonderworks.pages.dev' },
+      { name: 'ICAN WonderWorks — 로컬 (1차 망)', icon: <WonderWorksIcon />, url: 'http://192.168.0.111:5176' },
+      { name: 'ICAN WonderWorks — 인터넷 (2차 확대망)', icon: <WonderWorksIcon />, url: 'https://ican-wonderworks.pages.dev' },
     ],
   },
   {

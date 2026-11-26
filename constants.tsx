@@ -36,7 +36,15 @@ const PersoIcon = () => <PlaceholderIcon><path d="M12 2C6.48 2 2 6.48 2 12s4.48 
 const SupertoneIcon = () => <PlaceholderIcon><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/></PlaceholderIcon>;
 const TypecastIcon = () => <PlaceholderIcon><path d="M20,4H4A2,2,0,0,0,2,6V18a2,2,0,0,0,2,2H20a2,2,0,0,0,2-2V6A2,2,0,0,0,20,4Zm-4,12H8v-2h8Zm0-4H8v-2h8Zm0-4H8V6h8Z"/></PlaceholderIcon>;
 
+const WonderWorksIcon = () => <PlaceholderIcon><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></PlaceholderIcon>;
+
 export const AI_TOOLS_DATA: Category[] = [
+  {
+    title: 'ICAN WonderWorks',
+    tools: [
+      { name: 'ICAN WonderWorks — 버추얼 오피스', icon: <WonderWorksIcon />, url: 'https://ican-wonderworks.pages.dev' },
+    ],
+  },
   {
     title: 'Class Management',
     tools: [
